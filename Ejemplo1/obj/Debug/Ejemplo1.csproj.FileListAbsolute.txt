@@ -1,0 +1,11 @@
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\obj\Debug\Ejemplo1.frmventana.resources
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\obj\Debug\Ejemplo1.pdb
+C:\Users\Gabriela\OneDrive\Escritorio\Guia1(HR100220)\Ejemplo1\obj\Debug\Ejemplo1.Form2.resources
