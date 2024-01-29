@@ -1,0 +1,33 @@
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\bin\Debug\LoginBasico.exe.config
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\bin\Debug\LoginBasico.exe
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\bin\Debug\LoginBasico.pdb
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.AssemblyReference.cache
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\obj\Debug\LoginBasico.Form1.resources
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\obj\Debug\LoginBasico.Properties.Resources.resources
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.GenerateResource.cache
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\obj\Debug\LoginBasico.exe
+C:\Users\Edgar\Desktop\Progra C#\LoginBasico\LoginBasico\obj\Debug\LoginBasico.pdb
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\bin\Debug\LoginBasico.exe.config
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\bin\Debug\LoginBasico.exe
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\bin\Debug\LoginBasico.pdb
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.AssemblyReference.cache
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.Form1.resources
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.Properties.Resources.resources
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.GenerateResource.cache
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.exe
+C:\Users\Edgar\Desktop\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.pdb
+C:\Users\Edgar\Desktop\Universidad\Ciclo 7\Progra\U1\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.AssemblyReference.cache
+C:\Users\Edgar\Desktop\Universidad\Ciclo 7\Progra\U1\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgar\Desktop\Universidad\Ciclo 7\Progra\U1\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.Form1.resources
+C:\Users\Edgar\Desktop\Universidad\Ciclo 7\Progra\U1\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.GenerateResource.cache
+C:\Users\Edgar\Desktop\Universidad\Ciclo 7\Progra\U1\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.exe
+C:\Users\Edgar\Desktop\Universidad\Ciclo 7\Progra\U1\Guia 2 MV100320\LoginBasico\LoginBasico\obj\Debug\LoginBasico.pdb
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.AssemblyReference.cache
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\LoginBasico\LoginBasico\obj\Debug\LoginBasico.Form1.resources
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.GenerateResource.cache
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\LoginBasico\LoginBasico\obj\Debug\LoginBasico.exe
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\LoginBasico\LoginBasico\obj\Debug\LoginBasico.pdb
