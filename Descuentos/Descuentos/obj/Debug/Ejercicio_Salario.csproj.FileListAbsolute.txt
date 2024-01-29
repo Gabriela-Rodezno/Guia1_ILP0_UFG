@@ -1,0 +1,32 @@
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\bin\Debug\Ejercicio_Salario.exe.config
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\bin\Debug\Ejercicio_Salario.exe
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\bin\Debug\Ejercicio_Salario.pdb
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.AssemblyReference.cache
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.Form1.resources
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.Properties.Resources.resources
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.GenerateResource.cache
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.exe
+C:\Users\Edgar\Desktop\Progra C#\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.pdb
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\bin\Debug\Ejercicio_Salario.exe.config
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\bin\Debug\Ejercicio_Salario.exe
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\bin\Debug\Ejercicio_Salario.pdb
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.AssemblyReference.cache
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.Form1.resources
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.Properties.Resources.resources
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.GenerateResource.cache
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.exe
+C:\Users\Edgar\Desktop\Progra C#\Guia1\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.pdb
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\Ejercicio_Salario\Ejercicio_Salario\bin\Debug\Ejercicio_Salario.exe.config
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\Ejercicio_Salario\Ejercicio_Salario\bin\Debug\Ejercicio_Salario.exe
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\Ejercicio_Salario\Ejercicio_Salario\bin\Debug\Ejercicio_Salario.pdb
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.AssemblyReference.cache
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.Form1.resources
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.Properties.Resources.resources
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.GenerateResource.cache
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.exe
+C:\Users\Gabriela\OneDrive\Escritorio\KEVINV\KEVINV\Ejercicio_Salario\Ejercicio_Salario\obj\Debug\Ejercicio_Salario.pdb
